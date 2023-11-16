@@ -32,7 +32,7 @@ export const socialNetworks = [
       title: 'H07',
       subtitle: 'CALLAO',
       description: 'JR.ABANCAY 77 ',
-      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPqdeDvoePDgPCwYv2wRIN03cccOqb-mhMRw&usqp=CAU',
+      image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
       slug: './teams/h07'
     },
     {
@@ -40,7 +40,7 @@ export const socialNetworks = [
       title: 'H10',
       subtitle: 'los olivos',
       description: 'los olivos 43 urb. los olivos altura 30  ',
-      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPqdeDvoePDgPCwYv2wRIN03cccOqb-mhMRw&usqp=CAU',
+      image: 'https://i.blogs.es/054380/warzone/1366_2000.jpeg',
       slug: './teams/h10'
     },
     {
@@ -48,7 +48,7 @@ export const socialNetworks = [
       title: 'P28',
       subtitle: 'Villa el Salvador',
       description: 'calle Y villa el salvador ',
-      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPqdeDvoePDgPCwYv2wRIN03cccOqb-mhMRw&usqp=CAU',
+      image: 'https://i.blogs.es/168816/videojuegos/1366_2000.jpg',
       slug: './teams/p28'
     }
   ];
