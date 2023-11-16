@@ -32,7 +32,7 @@ export const socialNetworks = [
       title: 'H07',
       subtitle: 'CALLAO',
       description: 'JR.ABANCAY 77 ',
-      image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPqdeDvoePDgPCwYv2wRIN03cccOqb-mhMRw&usqp=CAU',
       slug: './teams/h07'
     },
     {
